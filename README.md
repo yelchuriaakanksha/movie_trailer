@@ -8,7 +8,7 @@ Design a python class that can be used to store movie information and a script f
 
 Steps for page generation.
 
-Quick start
+* Quick start
 Install Python
 Clone the project to your local environment
 Open a shell interface and move to the project directory
