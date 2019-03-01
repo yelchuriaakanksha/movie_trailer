@@ -12,5 +12,5 @@ Steps for page generation.
 * Install Python
 * Clone the project to your local environment
 * Open a shell interface and move to the project directory
-Execute python entertainment_center.py
+* Execute python entertainment_center.py
 The website is now displayed on your default web browser
