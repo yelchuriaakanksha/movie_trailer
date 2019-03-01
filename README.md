@@ -6,7 +6,7 @@ This is the first project of Udacity: Full Stack Web Developer Nanodegree
 About the project
 Design a python class that can be used to store movie information and a script for execution. Starter code which can help creating the web content.
 
-Here is the demo of the page generated.
+Steps for page generation.
 
 Quick start
 Install Python
