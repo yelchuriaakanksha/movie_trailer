@@ -10,7 +10,7 @@ Steps for page generation.
 
 * Quick start
 * Install Python
-Clone the project to your local environment
-Open a shell interface and move to the project directory
+* Clone the project to your local environment
+* Open a shell interface and move to the project directory
 Execute python entertainment_center.py
 The website is now displayed on your default web browser
