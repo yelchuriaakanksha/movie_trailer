@@ -1,7 +1,7 @@
 # movie_trailer
 This is the first project of Udacity: Full Stack Web Developer Nanodegree
 
-by Alan Po-Ching
+### By Yelchuri Aakanksha
 
 About the project
 Design a python class that can be used to store movie information and a script for execution. Starter code which can help creating the web content.
